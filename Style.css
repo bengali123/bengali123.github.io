@@ -50,7 +50,7 @@ main a {
 }
 
 body{
-    background-image: url('/project-portfolio-bengali123/image/giphy.gif');
+    background-image: url('image/giphy.gif');
     background-size: cover;
     height: 100vh;
 }
